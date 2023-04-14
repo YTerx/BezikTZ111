@@ -1,0 +1,35 @@
+﻿<Window x:Class="BezikTZ.View.Window.SignIN"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BezikTZ.View.Window"
+        Background="IndianRed"
+        mc:Ignorable="d"
+        MinWidth="450" MaxWidth="450"
+        MinHeight="515" MaxHeight="515"
+        Title="SignIN" Height="515" Width="450">
+    <Window.Resources>
+        <FontFamily x:Key="InriaSans">pack://application:,,,/Assets/Fonts/InriaSans-Regular.ttf#Inria Sans</FontFamily>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition/>
+            <RowDefinition Height="70"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="380"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+        </Grid>
+
+        <Rectangle Fill="White" Grid.Row="1" Grid.Column="1" Width="381"/>
+        <Button Width="205" Height="32" VerticalAlignment="Center" HorizontalAlignment="Center"
+                FontSize="22" FontFamily="{StaticResource InriaSans}"
+                Content="Sign in" Click="RegisterButtonClick" Background="White" Grid.Row="2"/>
+    </Grid>
+</Window>

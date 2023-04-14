@@ -1,0 +1,8 @@
+C:\Users\311-1(STUDENT)\Desktop\BezikTZ\BezikTZ\obj\Debug\BezikTZ.csproj.AssemblyReference.cache
+C:\Users\311-1(STUDENT)\Desktop\BezikTZ\BezikTZ\obj\Debug\BezikTZ.csproj.SuggestedBindingRedirects.cache
+C:\Users\311-1(STUDENT)\Desktop\BezikTZ\BezikTZ\obj\Debug\MainWindow.g.cs
+C:\Users\311-1(STUDENT)\Desktop\BezikTZ\BezikTZ\obj\Debug\View\Window\Window1.g.cs
+C:\Users\311-1(STUDENT)\Desktop\BezikTZ\BezikTZ\obj\Debug\App.g.cs
+C:\Users\311-1(STUDENT)\Desktop\BezikTZ\BezikTZ\obj\Debug\BezikTZ_MarkupCompile.cache
+C:\Users\311-1(STUDENT)\Desktop\BezikTZ\BezikTZ\obj\Debug\BezikTZ_MarkupCompile.lref
+C:\Users\311-1(STUDENT)\Desktop\BezikTZ\BezikTZ\obj\Debug\View\Window\SignIN.g.cs
